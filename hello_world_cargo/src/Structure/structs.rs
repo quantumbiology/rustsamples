@@ -1,12 +1,12 @@
 // Declaration of Structure 
 struct Color {
-  red: u8;
-  green: u8;
-  blue: u8;
+  red: u8,
+  green: u8,
+  blue: u8
 }
 fn main() {
 
-    let mut bg = Color {red:255 , green : 155, blue : 65};l
+    let mut bg = Color {red:255 , green : 155, blue : 65};
     
     println!("Original values are {}, {}, {}" , bg.red, bg.green, bg.blue);
 
