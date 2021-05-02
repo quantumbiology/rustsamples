@@ -11,6 +11,6 @@ Below are the topics covered :-
 5. Structure
 6. Tuples
 7. Enum Samples
-8. Refrence (Pointers)
+8. Refrence
 
 
