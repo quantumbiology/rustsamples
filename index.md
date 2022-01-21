@@ -5,18 +5,16 @@ You can use the [Rust Sample GitHub](https://github.com/quantumhome/rustsamples)
 
 ### Rust Sample List
 
-- Bulleted
-- List
+- These samples are good start to RUST. Below are the topics covered :-
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+- Hello World Program With Rust.
+- Variables & Constants
+- Functions
+- Shadowing
+- Structure
+- Tuples
+- Enum Samples
+- Refrence
 
 ### Support or Contact
 
