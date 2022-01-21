@@ -18,4 +18,4 @@ These samples are good start to RUST. Below are the topics covered :-
 
 ### Support or Contact
 
-Having trouble with Repo. Kindly raise an [Issue](https://github.com/quantumhome/rustsamples/issues/new) or contact me on (Linkedin)(https://www.linkedin.com/in/piyush-soni-38632316/) and I’ll help you sort it out.
+Having trouble with Repo. Kindly raise an [Issue](https://github.com/quantumhome/rustsamples/issues/new) or contact me on [Linkedin](https://www.linkedin.com/in/piyush-soni-38632316/) and I’ll help you sort it out.
